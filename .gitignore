@@ -139,3 +139,6 @@ ui-tests/.pnp.*
 # data
 *.csv
 *.zip
+
+# virtual environment
+venv/
